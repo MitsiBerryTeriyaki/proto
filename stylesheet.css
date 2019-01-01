@@ -71,7 +71,7 @@ li a:hover {
   font-size: 9px;
   color: #C31014; }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
   /* For mobile phones: */
   h1 {
     font-size: 24px; }
