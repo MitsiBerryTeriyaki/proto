@@ -1,0 +1,100 @@
+#notint, #notint:hover {
+  color: #C31014;
+  text-decoration: none;
+  border: none; }
+
+body {
+  text-align: center;
+  background-color: #000000; }
+
+h1 {
+  color: #C31014; }
+
+nav {
+  background-color: #000000; }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #000000; }
+
+li {
+  float: right; }
+
+li a {
+  display: block;
+  color: #C31014;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none; }
+
+li a:hover {
+  color: #C31014;
+  border-radius: 3px;
+  border: 1px solid #C31014;
+  text-decoration: none; }
+
+.jumbotron {
+  background-image: url(https://myfootballstaff.com/wp-content/uploads/2017/07/043661a642367dec430a8fb0abab6f8f.jpg);
+  text-align: left; }
+
+.jumbotron p {
+  color: lightgrey;
+  font-weight: bold; }
+
+.informative {
+  padding: 0px 150px;
+  color: lightgrey; }
+
+.empty-space {
+  height: 200px; }
+
+#liverpool {
+  color: #C31014;
+  font-size: 9px; }
+
+#notint {
+  background-color: #000000; }
+
+#notint:hover {
+  border-radius: 3px;
+  border: 1px solid #C31014; }
+
+#JTF {
+  text-align: right;
+  margin: 15px;
+  font-size: 9px;
+  color: lightgrey; }
+
+#disclaimer {
+  font-size: 9px;
+  color: #C31014; }
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  h1 {
+    font-size: 24px; }
+
+  .empty-space {
+    height: 75px; }
+
+  .jumbotron p {
+    font-size: 9px;
+    font-weight: none;
+    text-align: center;
+    margin: 10px; }
+
+  .informative {
+    padding: 5px 10px;
+    font-size: 12px; }
+
+  #liverpool {
+    background-color: lightgrey;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0px 100px;
+    background-blend-mode: soft-light;
+    text-align: center; } }
+
+/*# sourceMappingURL=stylesheet.css.map */
