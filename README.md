@@ -1,3 +1,1 @@
-# Project 0
-
-Web Programming with Python and JavaScript
+Prototype webapp/template for an upcoming project. Repo aimed at UX, design and functional testing. 
